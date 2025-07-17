@@ -18,7 +18,7 @@ Hi there, I'm <a href="https://github.com/LockheedMartin-lab" target="_blank" re
 💬 If you have any question/feedback, don't hesitate to reach out to us!
 
 ## 🔭 Currently working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tomoe-exe&repo=Tomoe&icon_color=e74c3c&bg_color=151515&text_color=fff)](https://github.com/Tomoe-exe/Tomoe)
+Nothing related to this organisation
 
 ## 🛠️ Technical Skills and used applications  
 
@@ -36,7 +36,7 @@ Hi there, I'm <a href="https://github.com/LockheedMartin-lab" target="_blank" re
 
 ## 🚀 What's next
 
-- Building an AI-Chatbot either a new one or an addition to the Tomoe Bot (down the line, it'll take some time xD )
+Nothing related to this organisation
 
 
 ## 📃 Licence
